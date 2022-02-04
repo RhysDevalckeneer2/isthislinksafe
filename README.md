@@ -1,2 +1,1 @@
-# isthislinksafe
-Description...
+https://isthislinksafe.com/
